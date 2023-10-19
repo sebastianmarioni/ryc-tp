@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1697753870 source:c:\users\seba\desktop\tp_ryc_sockets\servidor\main.cpp
+	<iostream>
+	<winsock2.h>
+	<cstring>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	<cstdio>
+	<ctime>
+

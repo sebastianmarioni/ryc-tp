@@ -1,0 +1,3 @@
+universitiy:universidad
+dog:perro
+cat:gato

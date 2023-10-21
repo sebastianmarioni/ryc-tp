@@ -10,3 +10,33 @@
 	<cstdio>
 	<ctime>
 
+1697901862 source:c:\users\seba\desktop\ryc-tp\servidor\main.cpp
+	"menu.h"
+
+1697839463 source:c:\users\seba\desktop\ryc-tp\servidor\conexion.cpp
+	"conexion.h"
+
+1697839463 c:\users\seba\desktop\ryc-tp\servidor\conexion.h
+	<iostream>
+	<winsock2.h>
+
+1697838827 c:\users\seba\desktop\ryc-tp\servidor\menu.h
+	"gestionClientes.h"
+
+1697900975 c:\users\seba\desktop\ryc-tp\servidor\gestionclientes.h
+	"conexion.h"
+	<cstring>
+	<string>
+	<vector>
+	<ctime>
+	<sstream>
+	<fstream>
+	<cstdio>
+	<algorithm>
+
+1697904324 source:c:\users\seba\desktop\ryc-tp\servidor\menu.cpp
+	"menu.h"
+
+1697904251 source:c:\users\seba\desktop\ryc-tp\servidor\gestionclientes.cpp
+	"gestionClientes.h"
+
